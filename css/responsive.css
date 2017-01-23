@@ -1,0 +1,858 @@
+@media (min-width: 1401px) and (max-width: 1600px) {
+
+
+#media h2 {
+  margin-bottom: 20px;
+}
+
+#schedule h2 {
+  margin-bottom: 20px;
+}
+
+#gallery h2 {
+  margin-bottom: 20px;
+}
+
+}
+
+
+/* lg */ 
+@media (min-width: 1200px) and (max-width: 1400px) {
+  
+
+.cart {
+    margin-top: 30px;
+  }
+
+#media h2 {
+  margin-bottom: 20px;
+}
+
+#schedule h2 {
+  margin-bottom: 20px;
+}
+
+#gallery h2 {
+  margin-bottom: 20px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  .navbar-right {
+    padding: 0 30px 0 0;
+  }
+
+  .navbar-right li a {
+    padding: 28px 15px;
+    font-size: 20px;
+  }
+
+  .fixed-menu .container {
+    width: 100%;
+  }
+
+  .fixed-menu .navbar-right {
+    padding-right: 30px;
+  }
+
+  .fixed-menu .navbar-right li a {
+    padding: 20px;
+  }
+
+  
+  #countdown li {
+    margin-right: 30px;
+  }
+
+  .guitar {
+    right:0;
+  }
+
+  .guitar2 {
+    height: 100%
+  }
+
+    .guitar2 img {
+      padding-top: 20%;
+    }
+
+  .ear-piece {
+    left: -15%;
+  }
+
+  #event .col-md-9 {
+    z-index: 10;
+  }
+
+
+#home .carousel-caption h4 {
+  font-size: 20px;
+}
+
+#home .carousel-caption h1 {
+  font-size: 35px;
+}
+
+.what-is-a-scoville {
+  display: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.meet-center-text {
+  text-align: center;
+}
+
+#event br {
+  display: none;
+}
+
+
+.schedule-center-text {
+  text-align: center;
+}
+
+
+.cart {
+    margin-top: 25px;
+  }
+
+#media h3 {
+  text-align: center;
+}
+
+
+
+}
+
+
+
+
+
+@media (min-width: 900px) and (max-width: 1050px) {
+    .navbar-right li a {
+      
+      font-size: 17px;
+  }
+
+  .container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .navbar-brand {
+    width: 215px;
+    height: 60px;
+  }
+
+  .navbar-right {
+    padding: 0;
+  }
+
+  .navbar-right li a {
+    padding:20px 11px;
+    font-size: 18px;
+  }
+
+  .fixed-menu .container {
+    width: 100%;
+  }
+
+  .fixed-menu .navbar-right {
+    padding-right: 30px;
+  }
+
+  .fixed-menu .navbar-right li a {
+    padding: 20px 15px;
+    font-size: 18px;
+  }
+ 
+ #countdown li {
+  margin-right: 15px;
+ }
+
+  .sponsor-control-left {
+    right:8%;
+  }
+
+  .sponsor-control-right {
+    right: 5%;
+  }
+
+  .guitar, .ear-piece, .light {
+    display: none;
+  }
+
+  .watch {
+    left: -8%
+  }
+
+  .guitar2 {
+    height: 100%;
+  }
+
+  .guitar2 img {
+    padding-top:38%;
+  }
+
+  .twit {
+    left: -5%;
+  }
+
+
+
+#home .carousel-caption h4 {
+  font-size: 15px;
+}
+
+#home .carousel-caption h1 {
+  font-size: 30px;
+}
+
+
+
+.navbar-right li a {
+  padding: 18px 12px;
+  font-size: 18px;
+
+}
+
+.what-is-a-scoville {
+  display: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.meet-center-text {
+  text-align: center;
+}
+
+#event br {
+  display: none;
+}
+
+.schedule-center-text {
+  text-align: right;
+}
+
+.cart {
+    margin-top: 25px;
+  }
+
+
+#media h3 {
+  text-align: center;
+}
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+
+  .main-nav .container {
+    display: none;
+  }
+  
+  .fixed-menu .container {
+    display: block;
+  }
+
+   .fixed-menu .container {
+    width: 100%;
+  }
+
+  .navbar-brand {
+    width: inherit;
+  }
+
+  .fixed-menu .navbar-right li a {
+    padding: 7px 25px;
+  }
+
+
+  #main-slider .carousel-caption {
+    bottom: 17%;
+    padding: 10px;
+    line-height: 0;
+  }
+
+  #main-slider .carousel-caption h2 {
+    font-size: 20px;
+    margin-top: 3px;
+  }
+
+  #main-slider .carousel-caption h4 {
+    font-size: 16px;
+  }
+
+  #main-slider .carousel-caption a {
+    font-size: 14px;
+    color: #2da1c5;
+  }
+
+  #explore {
+    background-size:cover;
+  }
+
+  #explore h2 {
+    float: inherit;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }  
+
+  #countdown li {
+    font-size: 14px;
+    margin-right:35px;
+    width:inherit;
+  }
+
+  #countdown li span {
+    font-size: 24px;
+    height: 60px;
+    line-height: 60px;
+    width: 60px;
+  }
+
+  #countdown li:before, 
+  #countdown li:after {
+    top:25px;
+  }
+
+  .cart {
+    margin-top: 125px;
+  }
+
+  .cart a {
+    font-size: 18px;
+  }
+
+  .cart a i {
+    font-size: 20px;
+    padding:15px;
+  }
+
+   /*event */
+  .single-event {
+    margin-bottom: 40px;
+  }
+
+
+  #event h2, 
+  #about h2, 
+  #sponsor h2 {
+    font-size: 30px;
+  }
+
+  .twitter-control-left, 
+  .twitter-control-right {
+    top: inherit;
+    bottom: -40px;
+  }
+
+  .twitter-control-left {
+    left: 46%;
+  }
+
+  .twitter-control-right {
+    right: 46%;
+  }
+
+  #sponsor {
+    background-position: right 0 bottom 0;
+  }
+
+  .sponsor-control-left, 
+  .sponsor-control-right {
+    top:0;
+  }
+
+  .sponsor-control-left {
+    right: 10%;
+  }
+
+  .sponsor-control-right {
+    right: 5%;
+  }
+
+  #sponsor .item ul li {
+    width: 30%;
+    margin-right:3%
+  }
+
+  #sponsor .item ul li:last-child {
+    margin-right: 0;
+   }
+
+
+  #footer {
+    font-size: 16px;
+  }
+
+  .watch, .guitar, .guitar2, .twit, .light, .ear-piece {
+    display: none;
+  }
+
+  .contact-section {
+    background-position: left 0 bottom 0;
+    background-size: cover;
+  }
+
+  .about-content {
+    width: 100%;    
+    padding: 70px 25px 110px;
+  }
+
+
+
+#home .carousel-caption h4 {
+  font-size: 13px;
+}
+
+#home .carousel-caption h1 {
+  font-size: 25px;
+}
+
+.what-is-a-scoville {
+  display: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.meet-center-text {
+  text-align: center;
+}
+
+#event br {
+  display: none;
+}
+
+
+hr {
+  margin: 0;
+}
+
+#schedule h2 {
+  margin-bottom: 20px;
+}
+
+#schedule p {
+  font-size: 16px;
+}
+
+#schedule i {
+  display: none;
+}
+
+.schedule-center-text {
+  text-align: right;
+}
+
+#media h2 {
+  margin-bottom: 20px;
+}
+
+#media h3 {
+  text-align: center;
+}
+
+#media ul {
+  margin-bottom: 0px;
+}
+
+.bottom-bullet {
+  padding-bottom: 90px;
+}
+
+.schedule {
+  padding-left: 160px;
+  font-size: 20px;
+}
+
+.gallery-hr {
+  padding-bottom: 15px;
+}
+
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.next-show {
+  display: none;
+}
+
+}
+
+/* XS Portrait */
+@media (max-width: 479px) {
+
+  .main-nav .container {
+    display: none;
+  }
+
+  .fixed-menu .container {
+    display: block;
+  }
+
+  .fixed-menu .navbar-right li a {
+    padding: 10px 25px;
+  }
+
+  /* Home */
+
+  #home {
+    margin-top: 22%;
+  }
+
+  .fixed-menu .container {
+    width: 100%;
+  }
+
+  .navbar-brand {
+    width: inherit;
+  }
+
+
+  #main-slider .carousel-caption {
+    bottom: 17%;
+    padding: 10px;
+    line-height: 0;
+  }
+
+  #main-slider .carousel-caption h2 {
+    font-size: 18px;
+    margin-top: 3px;
+  }
+
+  #main-slider .carousel-caption h4 {
+    font-size: 14px;
+  }
+
+  #main-slider .carousel-caption a {
+    font-size: 12px;
+    color: #2da1c5;
+  }
+
+  .carousel-indicators {
+    bottom: 0;
+  }
+
+  /* Explore */
+  #explore {
+    background-size:cover;
+  }
+
+  #explore h2 {
+    float: inherit;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }  
+
+  #countdown li {
+    font-size: 14px;
+    margin-right: 15px;
+    width: 45px;
+  }
+
+  #countdown li span {
+    font-size: 20px;
+    height: 45px;
+    line-height: 45px;
+    width: 45px;
+  }
+
+  #countdown li:before, 
+  #countdown li:after {
+    top: 18px
+  }
+
+  .cart {
+    right:-209px;
+    margin-top: 130px;
+
+  }
+
+  .cart a {
+    font-size: 18px;
+  }
+
+  .cart a i {
+    font-size: 20px;
+    padding:12px;
+
+  }
+
+    /*event */
+  .single-event {
+    margin-bottom: 40px;
+  }
+
+  .about-content {
+    width: 100%;    
+    padding: 70px 30px 110px;
+  }
+
+  #event h2, 
+  #about h2, 
+  #sponsor h2 {
+    font-size: 30px;
+  }
+
+  .about-content p, 
+  #twitter-feed .item a, 
+  #twitter-feed .item p {
+    font-size: 15px;
+  }
+
+  .twitter-control-left, 
+  .twitter-control-right {
+    top: inherit;
+    bottom: -40px;
+  }
+
+  .twitter-control-left {
+    left: 46%;
+  }
+
+  .twitter-control-right {
+    right: 46%;
+  }
+
+  #sponsor {
+    background-position: right 0 bottom;
+  }
+
+  .sponsor-control-left, 
+  .sponsor-control-right {
+    top: 0;
+  }
+
+  .sponsor-control-left {
+    right: 10%;
+  }
+
+  .sponsor-control-right {
+    right: 5%;
+  }
+
+  #sponsor .item ul li {
+    width: 45%;
+    margin-right: 5%
+  }
+
+  #sponsor .item ul li:last-child {
+    margin-right: 0;
+   }
+ 
+  #footer {
+    font-size: 14px;
+  }
+
+  .watch, .guitar, .guitar2, .twit, .light, .ear-piece {
+    display: none;
+  }
+
+  .contact-section {
+    background-position: left 0 bottom 0;
+    background-size: cover;
+  }
+
+#home .carousel-caption h4 {
+  font-size: 10px;
+}
+
+#home .carousel-caption h1 {
+  font-size: 16px;
+}
+
+#home .carousel-caption h4 {
+  font-size: 10px;
+}
+
+#home .carousel-caption h1 {
+  font-size: 16px;
+}
+
+.next-show {
+  display: none;
+}
+
+.what-is-a-scoville {
+  display: none;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.meet-center-text {
+  text-align: center;
+}
+
+#event br {
+  display: none;
+}
+
+hr {
+  margin: 0;
+}
+
+#schedule h2 {
+  margin-bottom: 20px;
+}
+
+#schedule p {
+  font-size: 16px;
+}
+
+#schedule i {
+  display: none;
+}
+
+.schedule-center-text {
+  text-align: right;
+}
+
+#media h2 {
+  margin-bottom: 20px;
+}
+
+#media i {
+  display: none;
+}
+
+.pepper {
+  display: none;
+}
+
+#about p {
+  font-size: 16px;
+}
+
+.schedule {
+  list-style-type: none;
+  font-size: 14px;
+  padding-left: 60px;
+}
+
+.schedule-p {
+  text-align: left;
+  font-size: 16px;
+}
+
+.schedule-p br {
+  display: none;
+}
+
+#media ul {
+  margin-bottom: 0px;
+}
+
+.bottom-bullet {
+  padding-bottom: 80px;
+}
+
+.gallery-hr {
+  padding-bottom: 15px;
+}
+
+.thumbnail {
+      border: none;
+}
+
+.modal-content button{
+  display: inline;
+  border-radius: 5px;
+}
+
+
+.modal-body {
+  padding: 5px;
+}
+
+.form-group button{
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.carousel-caption {
+  visibility: hidden;
+}
+
+#about {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#about h2{
+  padding-top: 0;
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.contact-section {
+  background-color: black;
+  background-image: url("../images/contact-bg.jpg");
+  background-position:20% 0;
+}
+
+
+}
+
+
+@media (min-width: 300px) and (max-width: 372px) {
+
+ #home {
+    margin-top: 14%;
+  }
+
+}
+
+@media (min-width: 373px) and (max-width: 450px) {
+
+ #home {
+    margin-top: 12%;
+  }
+
+}
+
+@media (min-width: 451px) and (max-width: 500px) {
+
+ #home {
+    margin-top: 11%;
+  }
+
+}
